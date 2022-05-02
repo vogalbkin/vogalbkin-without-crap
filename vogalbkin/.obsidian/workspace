@@ -7,11 +7,8 @@
         "id": "0dc020cc8ece369d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Python/python-Функции.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/python-Функции.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +84,15 @@
   },
   "active": "0dc020cc8ece369d",
   "lastOpenFiles": [
-    "Python/python-Функции.md",
-    "Python/python-if-then.md",
-    "Python/python-elif.md",
+    "Python/python-Математика.md",
     "Python/python-Строки.md",
+    "Python/python-elif.md",
+    "Python/python-if-then.md",
+    "Python/python-Функции.md",
+    "Python/python-Списки.md",
     "Python/python-Переменные.md",
     "Python/python-Операторы-сравнения.md",
-    "Python/python-Математика.md",
-    "python/python-Операторы-сравнения.md",
-    "Без названия.md",
-    "Первая заметка.md"
+    "Python/python-Логические-операторы.md",
+    "python/python-Операторы-сравнения.md"
   ]
 }

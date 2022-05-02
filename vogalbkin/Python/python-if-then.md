@@ -1,6 +1,6 @@
 # if/else statements
 #python/if-else
 if name [==](python-операторы-сравнения) "Ben":
-	print("get out")
+	[print](python-Функции)("get out")
 else:
 	print("Hello")
