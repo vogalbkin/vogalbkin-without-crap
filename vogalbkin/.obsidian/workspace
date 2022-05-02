@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Python/python-Математика.md",
-            "mode": "preview"
+            "file": "Python/python-Логические-операторы.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/python-Математика.md",
+                "file": "Python/python-Логические-операторы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "0dc020cc8ece369d",
   "lastOpenFiles": [
-    "Python/python-Математика.md",
-    "Python/python-Строки.md",
+    "Python/python-Логические-операторы.md",
     "Python/python-elif.md",
     "Python/python-if-then.md",
-    "Python/python-Функции.md",
-    "Python/python-Списки.md",
-    "Python/python-Переменные.md",
+    "Python/python-Математика.md",
     "Python/python-Операторы-сравнения.md",
-    "Python/python-Логические-операторы.md",
+    "Python/python-Переменные.md",
+    "Python/python-Списки.md",
+    "Python/python-Строки.md",
+    "Python/python-Функции.md",
     "python/python-Операторы-сравнения.md"
   ]
 }
