@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Python/python-Операторы-сравнения.md",
+            "file": "Python/python-Функции.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/python-Операторы-сравнения.md",
+                "file": "Python/python-Функции.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,11 +88,14 @@
   },
   "active": "0dc020cc8ece369d",
   "lastOpenFiles": [
-    "Python/python-Операторы-сравнения.md",
+    "Python/python-Функции.md",
+    "Python/python-if-then.md",
+    "Python/python-elif.md",
+    "Python/python-Строки.md",
     "Python/python-Переменные.md",
+    "Python/python-Операторы-сравнения.md",
     "Python/python-Математика.md",
     "python/python-Операторы-сравнения.md",
-    "Python/python-Строки.md",
     "Без названия.md",
     "Первая заметка.md"
   ]

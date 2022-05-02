@@ -15,7 +15,7 @@
       }
     },
     {
-      "query": "tag:c++",
+      "query": "tag:#c++",
       "color": {
         "a": 1,
         "rgb": 14725458
@@ -23,15 +23,15 @@
     }
   ],
   "collapse-display": false,
-  "showArrow": false,
+  "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1,
+  "scale": 1.401982897776105,
   "close": true
 }
