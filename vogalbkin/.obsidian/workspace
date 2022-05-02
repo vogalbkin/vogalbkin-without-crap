@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Первая заметка.md",
+            "file": "Без названия.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Первая заметка.md",
+                "file": "Без названия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "0dc020cc8ece369d",
   "lastOpenFiles": [
+    "Без названия.md",
     "Первая заметка.md"
   ]
 }
