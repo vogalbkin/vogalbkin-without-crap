@@ -1,0 +1,89 @@
+{
+  "main": {
+    "id": "dc2535ac60693e38",
+    "type": "split",
+    "children": [
+      {
+        "id": "0dc020cc8ece369d",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "98a8efc847ee81fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0e96e01d736a67c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62ea86044b6bfde7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b0eef0e4b2c77df8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a106bf3a90abff65",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd94d84ef6ac6460",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d6517d3043178e8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0dc020cc8ece369d",
+  "lastOpenFiles": [
+    "Без названия.md"
+  ]
+}
