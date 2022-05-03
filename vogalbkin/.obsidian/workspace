@@ -7,11 +7,8 @@
         "id": "0dc020cc8ece369d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Python/python-Логические-операторы.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/python-Логические-операторы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
