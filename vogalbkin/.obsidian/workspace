@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "0dc020cc8ece369d",
+        "id": "3b4d223e65b8e010",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -82,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0dc020cc8ece369d",
+  "active": "3b4d223e65b8e010",
   "lastOpenFiles": [
-    "Python/python-Логические-операторы.md",
-    "Python/python-elif.md",
-    "Python/python-if-then.md",
-    "Python/python-Математика.md",
-    "Python/python-Операторы-сравнения.md",
-    "Python/python-Переменные.md",
-    "Python/python-Списки.md",
-    "Python/python-Строки.md",
-    "Python/python-Функции.md",
+    "IT/Python/python-Логические-операторы.md",
+    "IT/Python/python-Функции.md",
+    "IT/Python/python-Строки.md",
+    "IT/Python/python-Списки.md",
+    "IT/Python/python-Переменные.md",
+    "IT/Python/python-Операторы-сравнения.md",
+    "IT/Python/python-Математика.md",
+    "IT/Python/python-elif.md",
+    "IT/Python/python-if-then.md",
     "python/python-Операторы-сравнения.md"
   ]
 }
