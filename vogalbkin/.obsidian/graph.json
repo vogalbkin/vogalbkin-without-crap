@@ -5,33 +5,18 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "tag:#python",
-      "color": {
-        "a": 1,
-        "rgb": 5412832
-      }
-    },
-    {
-      "query": "tag:#c++",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    }
-  ],
-  "collapse-display": false,
+  "collapse-color-groups": true,
+  "colorGroups": [],
+  "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": -3,
+  "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 5,
-  "collapse-forces": false,
-  "centerStrength": 0.495175178147268,
-  "repelStrength": 20,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 500,
-  "scale": 0.3496597027216634,
-  "close": true
+  "linkDistance": 250,
+  "scale": 0.7162807493191944,
+  "close": false
 }

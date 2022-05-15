@@ -7,8 +7,11 @@
         "id": "3b4d223e65b8e010",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "IT/СУБД/субд-Команды-SQL.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "IT/СУБД/субд-Команды-SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +88,15 @@
   },
   "active": "3b4d223e65b8e010",
   "lastOpenFiles": [
+    "IT/СУБД/субд-Команды-SQL.md",
+    "IT/СУБД/субд-Типы-данных.md",
+    "IT/СУБД/субд-Язык-запросов.md",
+    "IT/СУБД/субд-Типы-БД.md",
+    "IT/СУБД/субд-База-данных.md",
+    "IT/СУБД/субд-СУБД.md",
+    "IT/СУБД/субд-SQL.md",
     "IT/Python/python-Логические-операторы.md",
     "IT/Python/python-Функции.md",
-    "IT/Python/python-Строки.md",
-    "IT/Python/python-Списки.md",
-    "IT/Python/python-Переменные.md",
-    "IT/Python/python-Операторы-сравнения.md",
-    "IT/Python/python-Математика.md",
-    "IT/Python/python-elif.md",
-    "IT/Python/python-if-then.md",
-    "python/python-Операторы-сравнения.md"
+    "IT/Python/python-Строки.md"
   ]
 }
